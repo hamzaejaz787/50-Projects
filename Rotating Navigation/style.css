@@ -1,0 +1,148 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #333;
+  color: #222;
+  overflow-x: hidden;
+}
+
+.container {
+  background-color: #fafafa;
+  padding: 3.5em;
+  width: 100vw;
+  min-height: 100vh;
+  transform-origin: top left;
+  transition: transform 1s linear;
+}
+
+.container.show-nav {
+  transform: rotate(-20deg);
+}
+
+.container-contents {
+  max-width: 1000px;
+  margin: 2em auto;
+}
+
+.container-contents img {
+  width: 100%;
+  margin: 1em 0;
+  border-radius: 3px;
+}
+
+.container-contents strong {
+  font-size: 1.25rem;
+  color: #333;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.subtitle {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+.container-contents p {
+  font-size: 1rem;
+  line-height: 1.5;
+  margin: 1em 0;
+}
+
+.circle-container {
+  position: fixed;
+  top: -100px;
+  left: -100px;
+}
+
+.circle {
+  background-color: #ff7979;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  position: relative;
+  transition: transform 1s linear;
+}
+
+.container.show-nav .circle {
+  transform: rotate(-70deg);
+}
+
+.circle button {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  height: 100px;
+  color: #fff;
+  font-size: 1.75rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
+
+.circle button#open {
+  left: 60%;
+}
+
+.circle button#close {
+  top: 60%;
+  transform: rotate(90deg);
+  transform-origin: top left;
+}
+
+nav {
+  position: fixed;
+  bottom: 2em;
+  left: 0;
+  z-index: 100;
+}
+
+nav ul {
+  list-style: none;
+  padding-left: 2em;
+}
+
+nav ul li {
+  text-transform: uppercase;
+  color: #fff;
+  transform: translateX(-100%);
+  margin: 2.5em 0;
+  transition: all 1s;
+}
+
+.container.show-nav + nav li {
+  transform: translateX(0);
+  transition-delay: 0.5s;
+}
+
+nav i {
+  margin-right: 0.75em;
+  font-size: 1.5rem;
+}
+
+nav ul li + li {
+  margin-left: 15px;
+  transform: translateX(-150%);
+}
+
+nav ul li + li + li {
+  margin-left: 30px;
+  transform: translateX(-200%);
+}
+
+nav a {
+  text-decoration: none;
+  color: #fafafa;
+  transition: all 0.5s;
+}
+
+nav a:hover {
+  color: #ff7979;
+}
