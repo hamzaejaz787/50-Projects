@@ -8,3 +8,4 @@
 | 02 | [Progress Steps](https://github.com/hamzaejaz787/50-Projects/tree/main/Progress%20Steps) | [Live Demo](https://festive-cori-4e6fb3.netlify.app/)
 | 03 | [Rotating Navigation](https://github.com/hamzaejaz787/50-Projects/tree/main/Rotating%20Navigation) | [Live Demo](https://rotating-animatednav.netlify.app/)
 | 04 | [Hidden Search Widget](https://github.com/hamzaejaz787/50-Projects/tree/main/Hidden%20Search%20Widget) | [Live Demo](https://hidden-searchwidget.netlify.app/)
+| 05 | [Animate Page](https://github.com/hamzaejaz787/50-Projects/tree/main/Animate%20Page) | [Live Demo](https://sad-lalande-bb47a7.netlify.app/)
