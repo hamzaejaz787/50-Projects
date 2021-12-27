@@ -15,6 +15,7 @@ body {
   justify-content: center;
   align-items: center;
   padding: 1em;
+  position: relative;
 }
 
 .carousel-highlight {
@@ -48,6 +49,30 @@ img.image-active {
   opacity: 1;
 }
 
+.carousel-container button {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.3);
+  border: none;
+  top: 35%;
+  z-index: 2;
+  border-radius: 0.25rem;
+  padding: 1em;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.carousel-container button:hover {
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+#nextBtn {
+  right: 25%;
+}
+
+#prevBtn {
+  left: 25%;
+}
+
 @media (max-width: 768px) {
   .carousel-highlight {
     width: 100%;
@@ -61,5 +86,13 @@ img.image-active {
   .carousel-preview img {
     max-width: 100%;
     width: 120px;
+  }
+
+  #nextBtn {
+    right: 15%;
+  }
+
+  #prevBtn {
+    left: 15%;
   }
 }
