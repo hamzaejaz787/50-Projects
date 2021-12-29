@@ -10,5 +10,5 @@
 | 04 | [Hidden Search Widget](https://github.com/hamzaejaz787/50-Projects/tree/main/Hidden%20Search%20Widget) | [Live Demo](https://hidden-searchwidget.netlify.app/)
 | 05 | [Animate Page](https://github.com/hamzaejaz787/50-Projects/tree/main/Animate%20Page) | [Live Demo](https://sad-lalande-bb47a7.netlify.app/)
 | 06 | [Image Carousel](https://github.com/hamzaejaz787/50-Projects/tree/main/Image%20Carousel) | [Live Demo](https://vigorous-euler-32c98e.netlify.app/)
-| 07 | [Blurry Loading](https://github.com/hamzaejaz787/50-Projects/tree/main/Blurry%20Loading) | [Live Demo](https://vigorous-euler-32c98e.netlify.app/)
+| 07 | [Blurry Loading](https://github.com/hamzaejaz787/50-Projects/tree/main/Blurry%20Loading) | [Live Demo](https://blurry-load.netlify.app/)
 
