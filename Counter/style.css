@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: rgb(102, 102, 102);
+  color: #fff;
+  display: grid;
+  place-items: center;
+  min-height: 100vh;
+}
+
+.container {
+  text-align: center;
+}
+
+.container h1 {
+  font-size: 4rem;
+}
+
+#counter-value {
+  padding: 1rem 0;
+  font-size: 5rem;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+  max-width: 100%;
+}
+
+.counter-btn {
+  cursor: pointer;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 3px;
+  font-weight: bold;
+  padding: 0.75em 1em;
+  transition: all 0.2s ease;
+}
+
+.counter-btn:hover {
+  background-color: rgb(44, 44, 44);
+  color: #fff;
+}
+
+.counter-btn:active {
+  background-color: rgb(32, 32, 32);
+  box-shadow: 0 0px 15px rgba(0, 0, 0, 0.3);
+}
