@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background: linear-gradient(
+    45deg,
+    hsla(196, 90%, 80%, 1) 0%,
+    hsla(212, 100%, 61%, 1) 100%
+  );
+  padding: 20px;
+}
+
+.container {
+  text-align: center;
+  background-color: white;
+  padding: 3rem 2rem;
+  border-radius: 10px;
+  max-width: 100%;
+  width: 750px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1), 0 6px 6px rgba(0, 0, 0, 0.1);
+}
+
+.container h3 {
+  font-weight: 700;
+  font-size: 1.25rem;
+  text-transform: capitalize;
+  color: #7c7c7c;
+  letter-spacing: 0.2rem;
+}
+
+.container p {
+  font-size: 1.75rem;
+  margin: 1.2em 0;
+  text-transform: capitalize;
+}
+
+.container button {
+  border: none;
+  cursor: pointer;
+  background-color: rgb(36, 138, 255);
+  color: #fff;
+  font-size: 1.2rem;
+  padding: 0.75em 4em;
+  border-radius: 8px;
+  box-shadow: 0 0px 10px rgba(0, 0, 0, 0.3);
+  transition: all 0.3s ease;
+}
+
+.container button:hover {
+  box-shadow: 0 0px 10px rgba(0, 0, 0, 0.5);
+  background-color: rgb(65, 143, 231);
+}
+
+.container button:active {
+  transform: scale(0.95);
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 2.5rem 1.5rem;
+  }
+  .container h3 {
+    font-size: 1rem;
+  }
+
+  .container p {
+    font-size: 1.6rem;
+    margin: 1em 0;
+  }
+
+  .container button {
+    font-size: 1rem;
+  }
+}
