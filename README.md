@@ -13,3 +13,5 @@
 | 07 | [Blurry Loading](https://github.com/hamzaejaz787/50-Projects/tree/main/Blurry%20Loading) | [Live Demo](https://blurry-load.netlify.app/)
 | 08 | [Counter](https://github.com/hamzaejaz787/50-Projects/tree/main/Counter) | [Live Demo](https://countersimple.netlify.app/)
 | 09 | [Chuck Norris Jokes](https://github.com/hamzaejaz787/50-Projects/tree/main/Chuck%20Norris%20Jokes) | [Live Demo](https://chuck-norrisapi.netlify.app/)
+| 10 | [Split Landing Page](https://github.com/hamzaejaz787/50-Projects/tree/main/Split%20Landing%20Page) | [Live Demo](https://youthful-volhard-9ece9a.netlify.app/)
+
