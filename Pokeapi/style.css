@@ -35,10 +35,6 @@ h1 {
 
 .container {
   width: clamp(200px, 100%, 1200px);
-  /* display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: space-between; */
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
 }
@@ -59,8 +55,8 @@ h1 {
 }
 
 .pokemon .img-container {
-  background-color: rgba(255, 255, 255, 0.897);
-  box-shadow: 0 3px 15px rgba(85, 85, 85, 0.2);
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0 0 15px rgba(66, 66, 66, 0.4);
   border-radius: 50%;
   width: 120px;
   height: 120px;
