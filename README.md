@@ -1,4 +1,4 @@
-# 50-Projects-50-Days
+# 50-Projects
 
 50 Projects made using vanilla HTML, CSS and JavaScript.
 
