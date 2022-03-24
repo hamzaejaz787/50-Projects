@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: rgb(0, 128, 128);
+  color: #fff;
+}
+
+.container {
+  width: 100%;
+  max-width: 800px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.counter-container {
+  padding: 1em;
+}
+
+.counter-container h1 {
+  font-size: 4rem;
+  font-weight: 400;
+}
+
+.counter-container i {
+  font-size: 2rem;
+}
+
+.counter-container p {
+  font-size: 1rem;
+  letter-spacing: 3px;
+}
