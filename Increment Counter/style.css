@@ -26,7 +26,7 @@ body {
   padding: 1em;
 }
 
-.counter-container h1 {
+.counter {
   font-size: 4rem;
   font-weight: 400;
 }
@@ -38,4 +38,22 @@ body {
 .counter-container p {
   font-size: 1rem;
   letter-spacing: 3px;
+}
+
+@media (max-width: 500px) {
+  .container {
+    flex-direction: column;
+  }
+
+  .counter {
+    font-size: 3.5rem;
+  }
+
+  .counter-container i {
+    font-size: 1.75rem;
+  }
+
+  .counter-container p {
+    letter-spacing: 2px;
+  }
 }

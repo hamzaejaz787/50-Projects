@@ -1,15 +1,20 @@
-const counterDisplay = document.querySelector(".counter");
+const counters = document.querySelectorAll(".counter");
 
-let total = 1000;
+counters.forEach((counter) => {
+  const counterIncrement = () => {
+    const target = counter.getAttribute("data-target");
+    const total = +counter.innerText;
+    const increment = target / 200;
 
-let int = setInterval(counterIncrement, 1);
+    if (total < target) {
+      counter.innerText = `${Math.floor(total + increment)}`;
+      setTimeout(counterIncrement, 1);
+    } else {
+      counter.innerText = target;
+    }
 
-function counterIncrement() {
-  total++;
+    console.log(target);
+  };
 
-  if (total > 9999) {
-    clearInterval(int);
-  }
-
-  counterDisplay.innerText = total;
-}
+  counterIncrement();
+});
