@@ -22,3 +22,4 @@
 | 16 | [Scroll Animation](https://github.com/hamzaejaz787/50-Projects/tree/main/Scroll%20Animation) | [Live Demo](https://euphonious-muffin-977499.netlify.app/)
 | 17 | [Article Progress Animation](https://github.com/hamzaejaz787/50-Projects/tree/main/Article%20Progress) | [Live Demo](https://benevolent-paletas-ca3557.netlify.app/)
 | 18 | [Drag N Drop](https://github.com/hamzaejaz787/50-Projects/tree/main/Drag%20N%20Drop) | [Live Demo](https://jovial-lily-b081bf.netlify.app/)
+| 19 | [Todo List](https://github.com/hamzaejaz787/50-Projects/tree/main/Todo%20List) | [Live Demo](https://sage-quokka-0361a4.netlify.app/)
