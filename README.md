@@ -23,3 +23,4 @@
 | 17 | [Article Progress Animation](https://github.com/hamzaejaz787/50-Projects/tree/main/Article%20Progress) | [Live Demo](https://benevolent-paletas-ca3557.netlify.app/)
 | 18 | [Drag N Drop](https://github.com/hamzaejaz787/50-Projects/tree/main/Drag%20N%20Drop) | [Live Demo](https://jovial-lily-b081bf.netlify.app/)
 | 19 | [Todo List](https://github.com/hamzaejaz787/50-Projects/tree/main/Todo%20List) | [Live Demo](https://sage-quokka-0361a4.netlify.app/)
+| 20 | [Faq Collapse](https://github.com/hamzaejaz787/50-Projects/tree/main/Faq%20Collapse) | [Live Demo](https://tourmaline-unicorn-1e395b.netlify.app/)
