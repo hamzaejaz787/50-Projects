@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  min-height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: rgb(231, 231, 231);
+}
+
+h1 {
+  font-size: 2.5rem;
+  margin: 2rem auto;
+}
+
+.faq-container {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.faq {
+  padding: 1rem 2rem;
+  background-color: transparent;
+  border-radius: 10px;
+  border: 1px solid rgb(129, 129, 129);
+  margin: 1.5rem 0;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.faq.active {
+  background-color: #fff;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1), 0 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.faq-title {
+  font-size: 1.35rem;
+  margin-right: 1rem;
+}
+
+.faq-text {
+  display: none;
+  font-size: 1rem;
+  color: #555;
+  margin: 1.25rem 0 0;
+}
+
+.faq.active .faq-text {
+  display: block;
+}
+
+.faq-toggle {
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  padding: 0;
+  position: absolute;
+  top: calc(50% - 10px);
+  right: 5%;
+  height: 30px;
+  width: 30px;
+}
+
+.faq-toggle:focus {
+  outline: none;
+}
+
+.faq-toggle .fa-times {
+  display: none;
+}
+
+.faq.active .faq-toggle .fa-times {
+  color: #fff;
+  display: block;
+}
+
+.faq.active .faq-toggle .fa-chevron-down {
+  display: none;
+}
+
+.faq.active .faq-toggle {
+  background-color: rgb(129, 129, 129);
+}
