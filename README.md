@@ -25,3 +25,4 @@
 | 19 | [Todo List](https://github.com/hamzaejaz787/50-Projects/tree/main/Todo%20List) | [Live Demo](https://sage-quokka-0361a4.netlify.app/)
 | 20 | [Faq Collapse](https://github.com/hamzaejaz787/50-Projects/tree/main/Faq%20Collapse) | [Live Demo](https://tourmaline-unicorn-1e395b.netlify.app/)
 | 21 | [Random User](https://github.com/hamzaejaz787/50-Projects/tree/main/Random%20User) | [Live Demo](https://50projects-randomuser.netlify.app/)
+| 22 | [Modal](https://github.com/hamzaejaz787/50-Projects/tree/main/Modal) | [Live Demo](https://50projects-modal.netlify.app/)
