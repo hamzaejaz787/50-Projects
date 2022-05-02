@@ -1,8 +1,8 @@
 // GET URLS
 const API_URL =
-  "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=&page=1";
+  "https://api.themoviedb.org/3/discover/movie?sort_by=popularity.desc&api_key=23a65587ca3f38dfda39df676f298978&page=1";
 const IMG_PATH = "https://image.tmdb.org/t/p/w1280";
-const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=&query="';
+const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=23a65587ca3f38dfda39df676f298978&query="';
 
 // GET DOM CONTENT
 const main = document.querySelector("#main");
