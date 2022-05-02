@@ -27,3 +27,4 @@
 | 21 | [Random User](https://github.com/hamzaejaz787/50-Projects/tree/main/Random%20User) | [Live Demo](https://50projects-randomuser.netlify.app/)
 | 22 | [Modal](https://github.com/hamzaejaz787/50-Projects/tree/main/Modal) | [Live Demo](https://50projects-modal.netlify.app/)
 | 23 | [Ripple Button](https://github.com/hamzaejaz787/50-Projects/tree/main/Ripple%20Button) | [Live Demo](https://50projects-buttonripple.netlify.app/)
+| 24 | [Movie List](https://github.com/hamzaejaz787/50-Projects/tree/main/Movie%20List) | [Live Demo](https://50projects-movielist.netlify.app/)
