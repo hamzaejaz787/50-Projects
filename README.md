@@ -29,3 +29,4 @@
 | 23 | [Ripple Button](https://github.com/hamzaejaz787/50-Projects/tree/main/Ripple%20Button) | [Live Demo](https://50projects-buttonripple.netlify.app/)
 | 24 | [Movie List](https://github.com/hamzaejaz787/50-Projects/tree/main/Movie%20List) | [Live Demo](https://50projects-movielist.netlify.app/)
 | 25 | [Tabs](https://github.com/hamzaejaz787/50-Projects/tree/main/Tabs) | [Live Demo](https://50projects-tabs.netlify.app/)
+| 26 | [Cursor](https://github.com/hamzaejaz787/50-Projects/tree/main/Cursor) | [Live Demo](https://50projects-cursor.netlify.app/)
