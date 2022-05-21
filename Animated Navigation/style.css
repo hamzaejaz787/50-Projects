@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  background-color: #eafbff;
+  background: linear-gradient(
+    to bottom,
+    #eafbff 0%,
+    #eafbff 50%,
+    #5290f9 50%,
+    #5290f9 100%
+  );
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80px;
+  padding: 20px;
+  border-radius: 3px;
+  transition: width 0.6s linear;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  overflow-x: hidden;
+}
+
+nav.active {
+  width: 350px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  width: 0;
+  transition: width 0.6s linear;
+}
+
+nav.active ul {
+  width: 100%;
+}
+
+nav ul li {
+  transform: rotateY(0deg);
+  opacity: 0;
+  transition: transform 0.6s linear, opacity 0.6s linear;
+}
+
+nav.active ul li {
+  opacity: 1;
+  transform: rotateY(360deg);
+}
+
+nav ul a {
+  text-decoration: none;
+  color: #000;
+  margin: 0 10px;
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+nav ul a:hover {
+  color: #5290f9;
+}
+
+.icon {
+  background-color: #fff;
+  border: 0;
+  height: 30px;
+  width: 30px;
+  cursor: pointer;
+  outline: none;
+  position: relative;
+}
+
+.icon .line {
+  height: 2px;
+  width: 20px;
+  background-color: #5290f9;
+  position: absolute;
+  top: 10px;
+  left: 5px;
+  transition: transform 0.6s linear;
+}
+
+.icon .line-two {
+  top: auto;
+  bottom: 10px;
+}
+
+nav.active .icon .line-one {
+  transform: rotate(-765deg) translateY(5.5px);
+}
+
+nav.active .icon .line-two {
+  transform: rotate(765deg) translateY(-5.5px);
+}
