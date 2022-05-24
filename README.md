@@ -33,3 +33,4 @@
 | 27 | [Content Placeholder](https://github.com/hamzaejaz787/50-Projects/tree/main/Content%20Placeholder) | [Live Demo](https://50projects-contentplaceholder.netlify.app/)
 | 28 | [Kinetic Loading](https://github.com/hamzaejaz787/50-Projects/tree/main/Kinetic%20Loading) | [Live Demo](https://50projects-kineticloading.netlify.app/)
 | 29 | [Animated Navigation](https://github.com/hamzaejaz787/50-Projects/tree/main/Animated%20Navigation) | [Live Demo](https://50projects-animatednav.netlify.app/)
+| 30 | [Double Click](https://github.com/hamzaejaz787/50-Projects/tree/main/Double%20Click) | [Live Demo](https://50projects-doubleclick.netlify.app/)
