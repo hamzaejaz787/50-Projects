@@ -36,3 +36,4 @@
 | 30 | [Double Click](https://github.com/hamzaejaz787/50-Projects/tree/main/Double%20Click) | [Live Demo](https://50projects-doubleclick.netlify.app/)
 | 31 | [Video Background](https://github.com/hamzaejaz787/50-Projects/tree/main/Video%20Background) | [Live Demo](https://50projects-videobackground.netlify.app/)
 | 32 | [Theme Clock](https://github.com/hamzaejaz787/50-Projects/tree/main/Theme%20Clock) | [Live Demo](https://50projects-themeclock.netlify.app/)
+| 33 | [Toast Notifications](https://github.com/hamzaejaz787/50-Projects/tree/main/Toast%20Notifications) | [Live Demo](https://50projects-toastnotifications.netlify.app/)
