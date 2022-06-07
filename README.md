@@ -39,3 +39,4 @@
 | 33 | [Toast Notifications](https://github.com/hamzaejaz787/50-Projects/tree/main/Toast%20Notifications) | [Live Demo](https://50projects-toastnotifications.netlify.app/)
 | 34 | [Password Generator](https://github.com/hamzaejaz787/50-Projects/tree/main/Password%20Generator) | [Live Demo](https://50projects-passwordgenerator.netlify.app/)
 | 35 | [Checkbox Selection](https://github.com/hamzaejaz787/50-Projects/tree/main/Checkbox%20Selection) | [Live Demo](https://50projects-selectioncheckbox.netlify.app/)
+| 36 | [Animated Countdown](https://github.com/hamzaejaz787/50-Projects/tree/main/Animated%20Countdown) | [Live Demo](https://50projects-animatedcountdown.netlify.app/)
