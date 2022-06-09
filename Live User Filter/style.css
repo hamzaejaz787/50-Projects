@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+  background-color: #f8f9fd;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 320px;
+}
+
+.filter__container {
+  background-color: #3e57db;
+  color: #fff;
+  padding: 2.5em 1.5em;
+}
+
+.title {
+  font-size: 1.2rem;
+}
+
+.filter__container small {
+  display: inline-block;
+  margin: 0.75em 0 1.5em;
+  opacity: 0.7;
+}
+
+.filter__container input {
+  color: #fff;
+  border: none;
+  background-color: rgba(0, 0, 0, 0.3);
+  font-size: 1rem;
+  width: 100%;
+  padding: 0.85rem 1rem;
+  border-radius: 50px;
+  outline: none;
+}
+
+.user__container {
+  background-color: #fff;
+  list-style: none;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.user__container li {
+  display: flex;
+  padding: 1.5em;
+}
+
+.user__container img {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+  object-fit: cover;
+}
+
+.user__container .user-info {
+  margin-left: 10px;
+}
+
+.user__container .user-info h4 {
+  margin: 0 0 14px;
+}
+
+.user__container .user-info p {
+  font-size: 0.85rem;
+}
+
+.user__container li:not(:last-of-type) {
+  border-bottom: 1px solid #eee;
+}
+
+.user__container li.hide {
+  display: none;
+}
