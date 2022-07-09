@@ -45,3 +45,4 @@
 | 39 | [Mobile Tab Navigation](https://github.com/hamzaejaz787/50-Projects/tree/main/Mobile%20Tab%20Navigation) | [Live Demo](https://50projects-mobiletabnavigation.netlify.app/)
 | 40 | [3d Boxes Background](https://github.com/hamzaejaz787/50-Projects/tree/main/3d%20Boxes%20Background) | [Live Demo](https://50projects-3dboxesbackground.netlify.app/)
 | 41 | [Verify Account UI](https://github.com/hamzaejaz787/50-Projects/tree/main/Verify%20Account%20UI) | [Live Demo](https://50projects-verifyaccountui.netlify.app/)
+| 42 | [Auto Text Effect](https://github.com/hamzaejaz787/50-Projects/tree/main/Auto%20Text%20Effect) | [Live Demo](https://50projects-autotexteffect.netlify.app/)
