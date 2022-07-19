@@ -47,3 +47,4 @@
 | 41 | [Verify Account UI](https://github.com/hamzaejaz787/50-Projects/tree/main/Verify%20Account%20UI) | [Live Demo](https://50projects-verifyaccountui.netlify.app/)
 | 42 | [Auto Text Effect](https://github.com/hamzaejaz787/50-Projects/tree/main/Auto%20Text%20Effect) | [Live Demo](https://50projects-autotexteffect.netlify.app/)
 | 43 | [Feedback UI](https://github.com/hamzaejaz787/50-Projects/tree/main/Feedback%20UI) | [Live Demo](https://50projects-feedbackui.netlify.app/)
+| 44 | [Netflix Mobile Navigation](https://github.com/hamzaejaz787/50-Projects/tree/main/Netflix%20Mobile%20Navigation) | [Live Demo](https://50projects-netflixmobilenav.netlify.app/)
