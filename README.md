@@ -49,3 +49,4 @@
 | 43 | [Feedback UI](https://github.com/hamzaejaz787/50-Projects/tree/main/Feedback%20UI) | [Live Demo](https://50projects-feedbackui.netlify.app/)
 | 44 | [Netflix Mobile Navigation](https://github.com/hamzaejaz787/50-Projects/tree/main/Netflix%20Mobile%20Navigation) | [Live Demo](https://50projects-netflixmobilenav.netlify.app/)
 | 45 | [Quiz App](https://github.com/hamzaejaz787/50-Projects/tree/main/Quiz%20App) | [Live Demo](https://50projects-quizapp.netlify.app/)
+| 46 | [Testimonial Box Switcher](https://github.com/hamzaejaz787/50-Projects/tree/main/Testimonial%20Box%20Switcher) | [Live Demo](https://50projects-testimonialboxswitcher.netlify.app/)
