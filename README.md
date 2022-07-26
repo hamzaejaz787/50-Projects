@@ -52,3 +52,4 @@
 | 46 | [Testimonial Box Switcher](https://github.com/hamzaejaz787/50-Projects/tree/main/Testimonial%20Box%20Switcher) | [Live Demo](https://50projects-testimonialboxswitcher.netlify.app/)
 | 47 | [Random Image Feed](https://github.com/hamzaejaz787/50-Projects/tree/main/Random%20Image%20Feed) | [Live Demo](https://50projects-randomimagefeed.netlify.app/)
 | 48 | [Github Profiles](https://github.com/hamzaejaz787/50-Projects/tree/main/Github%20Profiles) | [Live Demo](https://50projects-githubprofiles.netlify.app/)
+| 49 | [Dobule Verticle Slider](hhttps://github.com/hamzaejaz787/50-Projects/tree/main/Double%20Vertical%20Slider) | [Live Demo](https://50projects-doubleverticalsliders.netlify.app/)
