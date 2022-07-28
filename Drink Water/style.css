@@ -1,0 +1,99 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #3494e4;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  margin-bottom: 40px;
+}
+
+h1 {
+  margin: 10px 0 0;
+}
+
+h3 {
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+.cups {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  width: 280px;
+}
+
+.cup {
+  background-color: #fff;
+  color: #144fc6;
+  height: 330px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  border: 4px solid #144fc6;
+  border-radius: 0 0 40px 40px;
+  margin: 30px 0;
+  overflow: hidden;
+}
+
+.cup.cup-small {
+  height: 95px;
+  width: 50px;
+  border-radius: 0 0 15px 15px;
+  background-color: rgba(255, 255, 255, 0.9);
+  font-size: 14px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 5px;
+  transition: all 0.3s ease;
+  cursor: pointer;
+}
+
+.cup.cup-small.full {
+  color: #fff;
+  background-color: #6ab3f8;
+}
+
+.remained {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  flex: 1;
+  transition: all 0.3s ease;
+}
+
+.remained span {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.remained small {
+  font-size: 15px;
+}
+
+.percentage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+  font-weight: 700;
+  height: 0;
+  background-color: #6ab3f8;
+  transition: all 0.3s ease;
+}
+
+.text {
+  text-align: center;
+  margin: 0 0 5px;
+}
